@@ -6,7 +6,7 @@
 
 Added all notebooks, datasets and preprocessed data along with PowerBI file required for the visualization
 
-See the video of the PowerBI dashbaord for quick insights.
+See the video of the PowerBI dashbaord for quick insights:
 [Demo.webm](https://github.com/sumit10300203/Thermal-Power-Plant-Consumption-Analysis/assets/66067910/009edf5f-925e-43f6-817b-a192bdd5a5fa)
 
 Attaching Screenshots of PowerBI Visualization
