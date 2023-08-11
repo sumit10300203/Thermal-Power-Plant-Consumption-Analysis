@@ -6,10 +6,10 @@
 
 Added all notebooks, datasets and preprocessed data along with PowerBI file required for the visualization.
 
-[Dataset Link](https://www.kaggle.com/datasets/navinmundhra/daily-power-generation-in-india-20172020)
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/navinmundhra/daily-power-generation-in-india-20172020)
 
 See the video of the PowerBI dashbaord for quick insights:
-[Demo.webm](https://github.com/sumit10300203/Thermal-Power-Plant-Consumption-Analysis/assets/66067910/009edf5f-925e-43f6-817b-a192bdd5a5fa)
+[PowerBI Demo](https://github.com/sumit10300203/Thermal-Power-Plant-Consumption-Analysis/assets/66067910/009edf5f-925e-43f6-817b-a192bdd5a5fa)
 
 Attaching Screenshots of PowerBI Visualization
 ![PowerBI_Output_1](https://github.com/sumit10300203/Thermal-Power-Plant-Consumption-Analysis/assets/66067910/4d4bf15a-8eef-4da3-8975-af3da9d22b1c)
