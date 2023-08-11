@@ -1,8 +1,8 @@
 # Thermal-Power-Plant-Consumption-Analysis
 
-Dataset fetched from Kaggle, preprocessed and used multiple
-plots to explain the time series trend, applied ML algorithms (Prophet Machine Learning Model) for time series forecasting trend.
-Used PowerBI for visualization.
+* Dataset fetched from Kaggle, preprocessed and used multiple plots to explain the time series trend
+* Applied ML algorithms (Prophet Machine Learning Model) for time series forecasting trend.
+* Used PowerBI for visualization.
 
 Added all notebooks, datasets and preprocessed data along with PowerBI file required for the visualization
 
