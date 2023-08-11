@@ -1,4 +1,4 @@
-# Thermal-Power-Plant-Consumption-Analysis
+# Thermal-Power-Plant-Consumption-Analysis in India (2017-2020)
 
 * Dataset fetched from Kaggle, preprocessed and used multiple plots to explain the time series trend
 * Applied ML algorithms (Prophet Machine Learning Model) for time series forecasting trend.
